@@ -2,6 +2,7 @@
 ### Concact me
  * QQ: 84685009
  * E-mail: kooboy_li#163.com
+ * 微信ID：qq84685009
 <!--
 **xinglie/xinglie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
