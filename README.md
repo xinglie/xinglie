@@ -1,7 +1,5 @@
 <!-- ### Hi there 👋 -->
 ### Concact me
- * QQ: 84685009
- * E-mail: kooboy_li#163.com
  * 微信ID：qq84685009
  
  ![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=xinglie)
