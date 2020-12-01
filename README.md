@@ -2,7 +2,7 @@
 ### Concact me
  * 微信ID：qq84685009
 
-> 得到回报的前提是付出
+> 回报的前提是付出
  
  ![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=xinglie)
 <!--
