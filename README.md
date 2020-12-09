@@ -5,6 +5,7 @@
 > 回报的前提是付出
  
  ![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=xinglie)
+ ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinglie&layout=compact&show_icons=true)
 <!--
 **xinglie/xinglie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
