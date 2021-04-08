@@ -2,7 +2,7 @@
 ### Concact me
  * 微信ID：qq84685009
 
-> 路长且艰，勇敢向前
+> 若批评不自由，则赞美无意义
  
  ![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=xinglie)
  ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinglie&layout=compact&show_icons=true)
