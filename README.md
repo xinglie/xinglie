@@ -3,7 +3,6 @@
  * 微信ID：qq84685009  
 > 旋律会不会随风飘走
 
-> 热爱，无限。
  
  ![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=xinglie)
  ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinglie&layout=compact&show_icons=true)
