@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 ### Concact me 👋
  * 微信ID：qq84685009  
-> 换引擎，挺累的
+> 休假：6.24~6.29
 
  
  ![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=xinglie)
