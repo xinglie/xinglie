@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 ### Concact me 👋
  * 微信ID：qq84685009  
-> 犹豫呢，只会让你错失很多机会！
+> 修行自身
 
  
  ![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=xinglie)
