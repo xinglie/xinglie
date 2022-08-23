@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 ### Concact me 👋
  * 微信ID：qq84685009  
-> 无怨无悔也是一种美
+> 契约精神呢？
 
  
  ![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=xinglie)
