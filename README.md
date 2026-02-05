@@ -7,6 +7,11 @@
  微信服务号
  
  <img width="500" alt="wechat service account" src="./service.png"/>
+
+ 个人公众号
+ 
+ <img width="500" alt="wechat account" src="./personal.png"/>
+
 <!--
 **xinglie/xinglie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
